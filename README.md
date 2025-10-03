@@ -35,7 +35,7 @@
   <img width='12'/>
   <img src='https://cdn.simpleicons.org/git' height='40'/>
   <img width='12'/>
-  <img src='https://cdn.simpleicons.org/github/fff/000' height='40'/>
+  <img src='https://cdn.simpleicons.org/github/000/fff' height='40'/>
   <img width='12'/>
   <img src='https://cdn.simpleicons.org/neovim' height='40'/>
   <img width='12'/>
@@ -47,7 +47,7 @@
   <img width='12'/>
   <img src='https://cdn.simpleicons.org/tauri' height='40'/>
   <img width='12'/>
-  <img src='https://cdn.simpleicons.org/render/fff/000' height='40'/>
+  <img src='https://cdn.simpleicons.org/render/000/fff' height='40'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
 </div>
 <br>
@@ -59,7 +59,7 @@
   <img width='12'/>
   <img src='https://cdn.simpleicons.org/spring/:' height='40'/>
   <img width='12'/>
-  <img src='https://cdn.simpleicons.org/postgresql/fff/000' height='40'/>
+  <img src='https://cdn.simpleicons.org/postgresql/000/fff' height='40'/>
 </div>
 <br>
 
