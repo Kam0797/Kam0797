@@ -24,7 +24,7 @@
   <img width='12'/>
   <img src='https://cdn.simpleicons.org/mongodb' height='40'/>
   <img width='12'/>
-  <img src='https://cdn.simpleicons.org/express/fff/000' height='40'/>
+  <img src='https://cdn.simpleicons.org/express/000/fff' height='40'/>
   <img width='12'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width='12'/>
