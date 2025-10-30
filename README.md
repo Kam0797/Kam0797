@@ -7,7 +7,7 @@
 <h1 align='center'>Hey, This is Kam.. </h1>
 <h3 align='center'>Software Developer👨‍💻</h3>
 <p align='center'><i>MERN Stack | Python | Flutter </i></p>
- <p align='center'><b> A human, who likes anything but tech, enjoys building cool apps and tinkering around hardware. And... Nature, silence and peace.<br>
+ <p align='center'><b> A human, who likes anything in tech, enjoys building cool apps and tinkering around hardware. And... Nature, silence and peace.<br>
   Eager to learn, work on meaningful projects.
 </b></p>
  
